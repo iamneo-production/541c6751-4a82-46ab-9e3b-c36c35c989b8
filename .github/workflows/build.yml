@@ -25,4 +25,6 @@ jobs:
           GITHUB_TOKEN: 541c6751-4a82-46ab-9e3b-c36c35c989b8
           SONAR_TOKEN: 811c9a490983734401ba4e491eaefc8bfa7281de
         run: >-
-          python3 server/app.py
+          mvn -B verify org.sonarsource.scanner.maven:sonar-maven-plugin:sonar
+          -Dsonar.projectKey=iamneo-production_541c6751-4a82-46ab-9e3b-c36c35c989b8
+          -Dsonar.login=811c9a490983734401ba4e491eaefc8bfa7281de
