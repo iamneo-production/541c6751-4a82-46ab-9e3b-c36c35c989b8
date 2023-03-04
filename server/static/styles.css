@@ -1,0 +1,29 @@
+.col {
+    border: 1px red solid;
+    width: 10%;
+    padding-bottom: 8%;
+}
+
+.row {
+    border: 1px blue solid;
+}
+
+.normal {
+    border-radius: 10%;
+    background-color: rgba(149,165,166,0.7);
+}
+
+.anomaly {
+    border-radius: 10%;
+    background-color: rgba(245,230,83,0.7);
+}
+
+.heatwave {
+    border-radius: 10%;
+    background-color: rgba(241,130,141,0.7);
+}
+
+.graph-img {
+    height: 300px;
+    width: auto;
+}
