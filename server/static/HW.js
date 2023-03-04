@@ -6,7 +6,16 @@ let graphDiv = document.getElementById("graph");
 
 let updateCalendar = (location, month, data) => {
   calDiv.innerHTML = `<h2 class="title">Heatwaves predicted during ${month} 2023 in ${location}</h2>
-                      <h4>Yellow grids represent anomalous temperatures, Red grids represent actual Heatwave days</h4>`;
+                      <h5>Heatwave is considered only when the following conditions are met (as per the guidelines given) <h5>
+                      <ul>
+                        <li>Based on our temperature predictions for 2023 we filter out those days where the maximum temperature predicted was &gt;= 40C </li>
+                        <li>We computed the monthly normal station temperature using data from https://en.climate-data.org/. The data was from 1991-2021 </li>
+                        <li>Daily difference between predicted max temp and normal station temp was computed</li>
+                        <li>As per the condition, heatwave is &quot;considered&quot; <strong>but not reported</strong> when the difference is &gt;=4C</li>
+                        <li>If the condition is satisfied for consecutive days, then they are declared as a heatwave day (this is shown as a red cell in the calendar)</li>
+                        <li>If the condition is not satisfied for consecutive days, then that day is marked as an anamolous temperature day (marked as a yellow cell in the calendar)</li>
+                      </ul>
+                      `;
 
   graphDiv.innerHTML = `
     <h3>Choosing the right model...</h3>
