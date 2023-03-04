@@ -1,0 +1,22 @@
+{
+    "adilabad": {
+        "AQI": "KNN",
+        "HW": "Ridge"
+    },
+    "warangal": {
+        "AQI": "SGD",
+        "HW": "KNN"
+    },
+    "nizamabad": {
+        "AQI": "Ridge",
+        "HW": "KNN"
+    },
+    "khammam": {
+        "AQI": "Stacking",
+        "HW": "KNN"
+    },
+    "karimnagar": {
+        "AQI": "Bagging",
+        "HW": "MLR"
+    }
+}
