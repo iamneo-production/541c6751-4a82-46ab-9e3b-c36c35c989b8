@@ -1,0 +1,891 @@
+WARNING:root:Singular matrix in solving dual problem. Using least-squares solution instead.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:`base_estimator` was renamed to `estimator` in version 1.2 and will be removed in 1.4.
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:`base_estimator` was renamed to `estimator` in version 1.2 and will be removed in 1.4.
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:Singular matrix in solving dual problem. Using least-squares solution instead.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:`base_estimator` was renamed to `estimator` in version 1.2 and will be removed in 1.4.
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:`base_estimator` was renamed to `estimator` in version 1.2 and will be removed in 1.4.
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:Ill-conditioned matrix (rcond=5.32337e-18): result may not be accurate.
+WARNING:root:Singular matrix in solving dual problem. Using least-squares solution instead.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:`base_estimator` was renamed to `estimator` in version 1.2 and will be removed in 1.4.
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:`base_estimator` was renamed to `estimator` in version 1.2 and will be removed in 1.4.
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:Ill-conditioned matrix (rcond=1.0477e-18): result may not be accurate.
+WARNING:root:Ill-conditioned matrix (rcond=1.0006e-17): result may not be accurate.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:`base_estimator` was renamed to `estimator` in version 1.2 and will be removed in 1.4.
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:`base_estimator` was renamed to `estimator` in version 1.2 and will be removed in 1.4.
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:Ill-conditioned matrix (rcond=5.90294e-18): result may not be accurate.
+WARNING:root:Ill-conditioned matrix (rcond=8.42539e-18): result may not be accurate.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:`base_estimator` was renamed to `estimator` in version 1.2 and will be removed in 1.4.
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:`base_estimator` was renamed to `estimator` in version 1.2 and will be removed in 1.4.
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:Ill-conditioned matrix (rcond=1.36468e-17): result may not be accurate.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:Maximum number of iteration reached before convergence. Consider increasing max_iter to improve the fit.
+WARNING:root:`base_estimator` was renamed to `estimator` in version 1.2 and will be removed in 1.4.
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:`base_estimator` was renamed to `estimator` in version 1.2 and will be removed in 1.4.
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+WARNING:root:lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
