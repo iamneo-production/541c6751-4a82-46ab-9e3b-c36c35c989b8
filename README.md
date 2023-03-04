@@ -5,7 +5,7 @@ https://sonarcloud.io/summary/overall?id=examly-test_541c6751-4a82-46ab-9e3b-c36
 ## Website
 #### Run the following commands
 1. Run `pip install -r requirements.txt`
-2. Navigate to `server` folder and run `app.py`
+2. Navigate to `server` folder and run `python3 app.py`. The app must be run only after navigating to the server folder
 3. The website should be up and running
 
 ## Models
