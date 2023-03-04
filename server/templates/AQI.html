@@ -21,12 +21,19 @@
       integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD"
       crossorigin="anonymous"
     />
-    <link rel="stylesheet" href="static/styles.css" />
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.2.1/chart.min.js"
+      integrity="sha512-v3ygConQmvH0QehvQa6gSvTE2VdBZ6wkLOlmK7Mcy2mZ0ZF9saNbbk19QeaoTHdWIEiTlWmrwAL4hS8ElnGFbA=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    ></script>
+    <link rel="stylesheet" href="static/css/styles.css" />
   </head>
   <body>
     <div class="container">
       <div class="row">
         <div class="col">
+          <h2>Select a location to view the AQI predictions for:</h2>
           <div class="dropdown">
             <button
               class="btn btn-secondary dropdown-toggle"
@@ -56,11 +63,11 @@
           </div>
         </div>
       </div>
-      <div class="row" id="aqi">
-        
-      </div>
+
+      <div class="row" id="model-list-text"></div>
+
       <div class="row" id="graph"></div>
+      <div class="row" id="aqi"></div>
     </div>
-    <script src="static/AQI.js"></script>
   </body>
 </html>

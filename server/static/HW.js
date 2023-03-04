@@ -5,11 +5,25 @@ let calDiv = document.getElementById("calendar");
 let graphDiv = document.getElementById("graph");
 
 let updateCalendar = (location, month, data) => {
-  calDiv.innerHTML = `<h2 class="title">Heatwaves predicted during ${month} 2023 in ${location}</h2>`;
+  calDiv.innerHTML = `<h2 class="title">Heatwaves predicted during ${month} 2023 in ${location}</h2>
+                      <h4>Yellow grids represent anomalous temperatures, Red grids represent actual Heatwave days</h4>`;
 
   graphDiv.innerHTML = `
-    <h2>Model Prediction Graph</h2>
-    <img class="graph-img" src="static/graphs/${location.toLowerCase()}_HW.png"/>
+    <h3>Choosing the right model...</h3>
+    <h5>The following models were tested based on the given hyperparameters</h5>
+    <img class="graph-img" src="static/graphs/${location.toLowerCase()}_HW4.png" height="100px" width="auto"/>
+    <h5>Clearly out of the bunch, the best model is ${data['models'][location.toLowerCase()]} and hence it is chosen.</h5>
+    <img class="graph-img" src="static/graphs/${location.toLowerCase()}_HW2.png"/>
+    <h5>Based on the above parameters it is observed that there is a strong corelation between humidity and temperature and hence this fact is used in modelling...</h5>
+    <div class="row">
+      <div class="col">
+        <img class="graph-img" src="static/graphs/${location.toLowerCase()}_HW3.png"/>
+      </div>
+      <div class="col">
+        <img class="graph-img" src="static/graphs/${location.toLowerCase()}_HW.png"/>
+      </div>
+    </div>
+
   `;
   let count = 0;
 

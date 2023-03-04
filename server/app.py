@@ -2,7 +2,7 @@ from flask import Flask, jsonify,render_template
 from flask_cors import CORS
 import csv
 import datetime
-
+import json
 
 DEBUG = True
 
@@ -11,6 +11,7 @@ app.config.from_object(__name__)
 
 CORS(app, resources={r'/*': {'origins': '*'}})
 
+
 @app.route('/AQI/<location>',methods=['GET'])
 def AQI_loc(location):
     to_return = {}
@@ -18,7 +19,11 @@ def AQI_loc(location):
         reader = csv.reader(f)
         headers = next(reader)
         for n, row in enumerate(reader):
-            to_return[n] = row[headers.index(location)]
+            to_return[f"{n}"] = row[headers.index(location)]
+    with open("data/models.json","r") as f:
+        model_data = json.load(f)
+    to_return["model"] = model_data[location]["AQI"]
+    print(type(to_return))
 
     return jsonify(to_return)
 
@@ -61,6 +66,17 @@ def HW(month):
         to_return['start_cell'] = 2
     elif month == 6:
         to_return['start_cell'] = 5
+
+    with open("data/models.json","r") as f:
+        data_models = json.load(f)
+        to_return['models'] = {
+            'warangal':data_models['warangal']['HW'],
+            'karimnagar':data_models['karimnagar']['HW'],
+            'khammam':data_models['khammam']['HW'],
+            'adilabad':data_models['adilabad']['HW'],
+            'nizamabad':data_models['nizamabad']['HW'],
+        }
+
 
     return jsonify(to_return)
 

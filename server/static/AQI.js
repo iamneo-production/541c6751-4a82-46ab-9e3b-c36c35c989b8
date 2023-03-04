@@ -15,20 +15,24 @@ const months = [
   "December",
 ];
 let graphDiv = document.getElementById("graph");
+let modelTxt = document.getElementById("model-list-text"); 
 
 let updateAQI = (location, data) => {
-  aqiDiv.innerHTML = `<h2 class="title">Monthly predicted AQI for ${location} in 2023</h2>`;
-  let count = 0;
-  for(let i = 0; i < 3; i++) {
-    aqiDiv.innerHTML += `<div class="row">`;
-    for(let j=0;j<4;j++) {
-        aqiDiv.innerHTML += `
-            <div class="col">${months[count]} : ${data[count]}</div>
-        `;
-        count ++ ;
-    }
-    aqiDiv.innerHTML += '</div>';
-  }
+  aqiDiv.innerHTML = `
+    <h2 class="title">Monthly predicted AQI for ${location} in 2023</h2>
+    <img src="/static/graphs/${location.toLowerCase()}_AQI4.png">
+  `;
+  modelTxt.innerHTML = `
+    <h5>The following models were tested to check their performance based on chosen hyperparameters: <h5>
+    <img src="static/graphs/${location.toLowerCase()}_AQI3.png" width="900px" height="auto"/>
+    <h5>Clearly out of the bunch ${data['model']} was chosen due to its superior performance</h5>
+    <div class="col">
+        <img src="static/graphs/${location.toLowerCase()}_AQI.png" width="100%" height="auto"/>
+    </div>
+    <div class="col">
+        <img src="static/graphs/${location.toLowerCase()}_AQI2.png" width="100%" height="auto"/>
+    </div>
+    `;
 };
 
 Array.from(aqiLocations).forEach((element) => {
