@@ -11572,14 +11572,10 @@ footer.footer .social-link:hover {
 }
 
 .col {
-  border: 1px red solid;
   width: 4%;
   padding-bottom: 4%;
 }
 
-.row {
-  border: 1px blue solid;
-}
 
 .normal {
   border-radius: 10%;
